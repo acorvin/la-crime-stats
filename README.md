@@ -1,4 +1,4 @@
-# LA Crime Analysis 2020-2023 ( in progress... )
+# LA Crime Analysis 2020-2023 
 
 A Python project exploring and analyzing Los Angeles crime data spanning from 2020 to 2023. The goal is to gain valuable insights into crime trends, patterns, and hotspots using data visualization, statistical analysis, and machine learning techniques.
 
